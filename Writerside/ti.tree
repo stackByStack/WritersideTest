@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ti"
+                 name="Test Instance"
+                 start-page="test-instance.md">
+
+    <toc-element topic="Starter.md"/>
+    <toc-element topic="test-instance.md"/>
+</instance-profile>
